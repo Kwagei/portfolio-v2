@@ -10,7 +10,9 @@ The due date for this project is December 3, 2023, at 3pm.
 
 <br>
 
-|Grading Rubric||
+**Grading Rubric:**
+
+|Criteria|Points|
 |---|---|
 |Responsiveness|20|
 |Completeness|60|
